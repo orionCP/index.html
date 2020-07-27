@@ -1,0 +1,10 @@
+html, body {margin: 0;
+}
+#imagem_fundo {background:url("fundo.jpg");
+    height: 100%; text-align: center;
+}
+#titulo {color: white;
+        padding-top: 20%;
+        font-size: 60px;}
+#sub_titulo {color: white; padding-left: 20%; padding-right: 20%;}
+#acao {color: white; border: 1px white solid; padding: 10px 10px 10px 10px;}
